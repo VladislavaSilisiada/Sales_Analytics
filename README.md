@@ -27,7 +27,11 @@ Top Categories by Revenue:
 
 The main contributor to overall profit was the Office Supplies category.
 
-Top 3 Categories by Order Volume: Office Supplies, Beverages, Personal Care.
+Top 3 Categories by Order Volume: 
+
+* Office Supplies
+*  Beverages
+*  Personal Care.
 
 Geographical Distribution
 Regional Leader: The primary market is concentrated in Europe, which leads across all metrics. Southern Europe is particularly dominant.
